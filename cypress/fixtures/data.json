@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "Natasha Dickinson IV",
+      "email": "Gerhard9@hotmail.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "name": "Derek Armstrong",
+      "email": "Demetris52@yahoo.com",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "name": "Melody Schmitt",
+      "email": "Elfrieda.Beatty-Rempel55@hotmail.com",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "name": "Sara Gutmann",
+      "email": "Leatha.Anderson@gmail.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "name": "Darla Moore",
+      "email": "Elvera_Lowe77@gmail.com",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "name": "Robin Bashirian",
+      "email": "Jaime35@gmail.com",
+      "gender": "male",
+      "status": "inactive"
+    },
+    {
+      "name": "Mr. Nicholas Tromp-Brakus",
+      "email": "Lisette.Berge@gmail.com",
+      "gender": "female",
+      "status": "inactive"
+    },
+    {
+      "name": "Brent Lehner",
+      "email": "Chelsea_Gusikowski98@gmail.com",
+      "gender": "male",
+      "status": "active"
+    },
+    {
+      "name": "Gene Blanda",
+      "email": "Caleigh_Walsh@gmail.com",
+      "gender": "female",
+      "status": "active"
+    },
+    {
+      "name": "Lena Nicolas",
+      "email": "Dudley.Kulas99@gmail.com",
+      "gender": "female",
+      "status": "inactive"
+    }
+  ]
+}
