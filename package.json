@@ -4,6 +4,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.6.3"
+    "cypress": "^13.6.3",
+    "@faker-js/faker": "^8.4.1"
   }
 }
