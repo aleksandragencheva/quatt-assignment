@@ -23,9 +23,6 @@ Use JavaScript and a framework of your choice.
 
 ## Running
 
-Before getting to the tests, please [login](https://gorest.co.in/consumer/login) to get your access token first.
-Then visit [the config file](/cypress.config.js) and insert it there.
-
 The test cases are automated with [Cypress](https://github.com/cypress-io/cypress).
 To run them locally, first install the needed dependencies:
 
