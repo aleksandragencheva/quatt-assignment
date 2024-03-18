@@ -42,7 +42,7 @@ describe("Users CRUD API", () => {
   });
 
   // put
-  it("updates an user", () => {
+  it("updates an user's properties", () => {
     cy.getUserRequest().then(([user]) => {
       // properties to update
       const gender = user.gender === "male" ? "female" : user.gender;
@@ -59,7 +59,7 @@ describe("Users CRUD API", () => {
   });
 
   // patch - just an example with the email property
-  it('updates email property of an user', () => {
+  it("updates email property of an user", () => {
     cy.getUserRequest().then(([user]) => {
       cy.patchUserEmailRequest(user).then(response => {
         const updatedUser = response.body;
@@ -71,7 +71,7 @@ describe("Users CRUD API", () => {
   });
 
   // delete
-  it('deletes an user', () => {
+  it("deletes an user", () => {
     cy.getUserRequest().then(([user]) => {
       cy.deleteUserRequest(user.id).then(response => {
         expect(response.status).to.eq(204);
