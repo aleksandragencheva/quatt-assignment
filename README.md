@@ -26,9 +26,7 @@ Use JavaScript and a framework of your choice.
 The test cases are automated with [Cypress](https://github.com/cypress-io/cypress).
 To run them locally, first install the needed dependencies:
 
-```npm install cypress --save-dev``` <br>
-
-```npm install @faker-js/faker --save-dev```
+```npm install``` 
 
 Then, to open the cypress interface run:
 
